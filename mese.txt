@@ -1,0 +1,3 @@
+Masa mica 1 2 5
+Masa medie 2 6 10
+Masa mare 3 10 4
